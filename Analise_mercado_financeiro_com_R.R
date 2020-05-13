@@ -1,8 +1,4 @@
-# Big Data na Prática - Análise de Séries Temporais no Mercado Financeiro
-
-setwd("D:/Desenvolvimento/_Exercícios/BigDataRAzure")
-getwd()
-
+# Pacote quantmod
 # http://www.quantmod.com
 
 
